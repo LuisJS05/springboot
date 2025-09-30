@@ -66,4 +66,25 @@ ademas el usuario y contraseña deben coincidir con tu base de datos(MySQL)
 
    http://localhost:8080/users
 
+#Muestra de lista de usuarios
+![](LocalList.PNG)
 
+![](datoUser.PNG)
+
+
+#Imagen de creación de usuario
+![](createdUser.PNG)
+
+#Imagen de nuevo usuario en página
+![](muestranewUser.PNG)
+
+#Imagen de usuario creado en Base de Datos
+![](newUserbase.PNG)
+
+
+
+#Imagen de eliminar usuario *Luna* en página
+![](eliminacionUser.PNG)
+
+#Imagen de eliminación de usario en base de datos
+![](eliminacionbaseUser.PNG)
