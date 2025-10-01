@@ -1,4 +1,4 @@
-# SpringBoot - CRUD usuarios
+# Gestión de Usuarios - CRUD usuarios
 
 Este proyecto es una aplicación web desarrollada con SpringBoot que implementa un sistema básico de gestión de usuarios.  
 Permite listar, crear, editar y eliminar usuarios utilizando 'thymeleaf' para las vistas, 'Spring Data JPA' para la persistencia y 'MySQL' como base de datos.
